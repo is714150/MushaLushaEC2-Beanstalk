@@ -5,6 +5,7 @@ Descripción del micro-servicio: Servicio usado para desplegar el algoritmo que 
 Requerimientos funcionales:
 - Escrito en Python
 - Eficaz
+- Conectado a la base de datos de MongoDB
 
 Requerimientos no funcionales:
 - Código simple de manejar
