@@ -9,4 +9,4 @@ Requerimientos funcionales:
 
 Requerimientos no funcionales:
 - Código simple de manejar
-- Código comentar
+- Código comentado
